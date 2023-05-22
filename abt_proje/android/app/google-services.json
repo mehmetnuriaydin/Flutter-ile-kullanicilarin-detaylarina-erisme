@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275570956029",
+    "project_id": "abt-proje",
+    "storage_bucket": "abt-proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275570956029:android:1adfab4be19b61dde5d094",
+        "android_client_info": {
+          "package_name": "com.example.abt_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275570956029-n25cv2jdhgl1gkhrutsvf03pp9dl885h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBPs-ihP2TzYmMpRUMbHZBuIDPLIt34k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275570956029-n25cv2jdhgl1gkhrutsvf03pp9dl885h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
